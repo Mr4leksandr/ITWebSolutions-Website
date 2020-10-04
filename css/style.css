@@ -98,6 +98,10 @@ h1{
     margin: 2rem;
 }
 
+.card-h3{
+    color: var(--gold);
+}
+
 .press{
     text-align: center;
     padding: 3%;
